@@ -1,0 +1,15 @@
+D:\Projects\WpfApplication\WpfApplication\bin\Debug\WpfApplication.exe.config
+D:\Projects\WpfApplication\WpfApplication\bin\Debug\WpfApplication.exe
+D:\Projects\WpfApplication\WpfApplication\bin\Debug\WpfApplication.pdb
+D:\Projects\WpfApplication\WpfApplication\obj\Debug\FileView.g.cs
+D:\Projects\WpfApplication\WpfApplication\obj\Debug\App.g.cs
+D:\Projects\WpfApplication\WpfApplication\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Projects\WpfApplication\WpfApplication\obj\Debug\WpfApplication_MarkupCompile.cache
+D:\Projects\WpfApplication\WpfApplication\obj\Debug\WpfApplication_MarkupCompile.lref
+D:\Projects\WpfApplication\WpfApplication\obj\Debug\FileView.baml
+D:\Projects\WpfApplication\WpfApplication\obj\Debug\WpfApplication.g.resources
+D:\Projects\WpfApplication\WpfApplication\obj\Debug\WpfApplication.Properties.Resources.resources
+D:\Projects\WpfApplication\WpfApplication\obj\Debug\WpfApplication.csproj.GenerateResource.Cache
+D:\Projects\WpfApplication\WpfApplication\obj\Debug\WpfApplication.exe
+D:\Projects\WpfApplication\WpfApplication\obj\Debug\WpfApplication.pdb
+D:\Projects\WpfApplication\WpfApplication\obj\Debug\WpfApplication.csprojResolveAssemblyReference.cache
